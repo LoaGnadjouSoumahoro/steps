@@ -1,6 +1,6 @@
 # 🎲 Steps
 
-[Visitez le site en ligne]()
+[Visitez le site en ligne](https://loagnadjousoumahoro.github.io/steps/)
 
 Date de début du projet : 15/02/2024
 
@@ -22,7 +22,7 @@ Ce projet a été réalisé dans le cadre de l'exercice sur les States et les Ev
 
 ## Déploiement
 
-Le projet est déployé sur GitHub Pages à l'adresse suivante : [Lien vers le déploiement]()
+Le projet est déployé sur GitHub Pages à l'adresse suivante : [Lien vers le déploiement](https://loagnadjousoumahoro.github.io/steps/)
 
 ## Instructions de développement
 
